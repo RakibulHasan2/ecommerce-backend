@@ -39,15 +39,17 @@ async function run() {
         app.post('/users', async (req, res) => {
            try{
             const user = req.body;
-            console.log("backend user",user)
+            // console.log("backend user",user)
             const result = await usersCollection.insertOne(user)
             res.send(result);
            }
            catch(err){
-            console.log("comming from post",err)
+            // console.log("comming from post",err)
             res.send(err)
            }
         })
+
+        
     } finally {
         
     }

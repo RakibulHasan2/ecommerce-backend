@@ -1,0 +1,34 @@
+[
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec2",
+        "categoryName" : "Jeans"
+    },
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec3",
+        "categoryName" : "Shirts"
+    },
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec4",
+        "categoryName" : "T-Shirts"
+    },
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec5",
+        "categoryName" : "Watches"
+    },
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec6",
+        "categoryName" : "Bags"
+    },
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec7",
+        "categoryName" : "Shoes"
+    },
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec8",
+        "categoryName" : "Sneakers"
+    },
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec9",
+        "categoryName" : "Hat"
+    }
+]

@@ -1,0 +1,456 @@
+[
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec3",
+        "categoryName" : "Shirts",
+        "name": "DR. NO BLUE COTTON SHIRT WITH COCKTAIL CUFF AS SEEN ON JAMES BOND",
+        "price": "20,300",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/Bond_20Shirt_203_H.jpg?v=1611849335",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/sb-ppd-6.jpg?v=1611849336",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/Bond_20Shirt_203_C3.jpg?v=1611849339",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/Bond_20Shirt_203_open.jpg?v=1611849343"
+        },
+        "constructionDetails" : "Our shirts are handmade in our Gloucester factory, using hand-worked sewing machines operated by seamstresses with a wealth of experience. The patterns are cut from the highest quality cotton, with the separate pieces expertly brought together to create the final design. We finish the shirt with ethically sourced mother-of-pearl buttons, which are thermally fused to ensure they never loosen with wear; two branded collar stays are then placed into the collar for aesthetic and functional precision.",
+        "productInformation":{
+            "productCode" : "ZZSR0146 0001 07",
+            "bodyFit" : "Regular",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "Dr No Cuff",
+             "material" : "Cotton",
+             "collarStyle" : "Dr No Collar",
+             "countryOfOrigin" : "Bangladesh"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec3",
+        "categoryName" : "Shirts",
+        "name": "YELLOW LINEN REGULAR FIT MAYFAIR SHIRT",
+        "price": "34,300",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SESR0002102411_H_1000x.jpg?v=1644410120",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SESR0002102411_C4_1000x.jpg?v=1644410122",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SESR0002102411_C5_1000x.jpg?v=1644410123",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SESR0002102411_C2.jpg?v=1644410126"
+        },
+        "constructionDetails" : "Our shirts are handmade in our Gloucester factory, using hand-worked sewing machines operated by seamstresses with a wealth of experience. The patterns are cut from the highest quality fabrics, with the separate pieces expertly brought together to create the final design. We finish the shirt with ethically sourced mother-of-pearl buttons, which are thermally fused to ensure they never loosen with wear; two branded collar stays are then placed into the collar for aesthetic and functional precision.",
+        "productInformation":{
+            "productCode" : "AESR0002 1024 11",
+            "bodyFit" : "Regular",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "3 Button Cuff",
+             "material" : "Linen",
+             "collarStyle" : "Classic T&A",
+             "countryOfOrigin" : "Bangladesh"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec3",
+        "categoryName" : "Shirts",
+        "name": "NAVY LINEN SHIRT WITH T&A COLLAR AND 3-BUTTON CUFFS",
+        "price": "31,800",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/shi002-ee9310_c1.jpg?v=1675616126",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/shi002-ee9310_c2.jpg?v=1675616128",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/TURNBULL___ASSER_LOOKBOOK_202_51.jpg?v=1675616130",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/TURNBULL___ASSER_LOOKBOOK_202_53.jpg?v=1675616132"
+        },
+        "constructionDetails" : "Our shirts are made in England, at our workroom in Gloucester. Using the highest quality, ethically sourced yarns, our cotton and silk comes from the best textile suppliers in the world. This commitment to fabric and finish ensures durability as each shirt is created to last by our skilled craftspeople. The shirts are finished with mother-of-pearl buttons which are thermally fused to ensure they never loosen with wear, as well as branded collar stays for functionality and precision.",
+        "productInformation":{
+            "productCode" : "ZZSR0002 0017 05",
+            "bodyFit" : "Weekend",
+             "weave" : "Linen",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Linen",
+             "collarStyle" : "Derby",
+             "countryOfOrigin" : "United Kingdom"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec3",
+        "categoryName" : "Shirts",
+        "name": "SAGE GREEN LINEN WEEKEND FIT FINCH SHIRT",
+        "price": "37,800",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SESW0027124647_H.jpg?v=1648732536",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SESW0027124647_C3.jpg?v=1648732539",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SESW0027124647_C4.jpg?v=1648732542",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SESW0027124647_C2.jpg?v=1648732548"
+        },
+        "constructionDetails" : "Our shirts are handmade in our Gloucester factory, using hand-worked sewing machines operated by seamstresses with a wealth of experience. The patterns are cut from the highest quality fabrics, with the separate pieces expertly brought together to create the final design. We finish the shirt with ethically sourced mother-of-pearl buttons, which are thermally fused to ensure they never loosen with wear; two branded collar stays are then placed into the collar for aesthetic and functional precision.",
+        "productInformation":{
+            "productCode" : "AESW0027 1246 47",
+            "bodyFit" : "Weekend",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Linen",
+             "collarStyle" : "Derby",
+             "countryOfOrigin" : "United Kingdom"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec3",
+        "categoryName" : "Shirts",
+        "name": "BLUE WEEKEND FIT LINEN FINCH SHIRT WITH DERBY COLLAR",
+        "price": "35,000",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SZSW0027102550_H.jpg?v=1619553342",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SZSW0027102550_C4.jpg?v=1619553344",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SZSW0027102550_C3.jpg?v=1619553346",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SZSW0027102550_C2.jpg?v=1619553348"
+        },
+        "constructionDetails" : "Our shirts are handmade in our Gloucester factory, using hand-worked sewing machines operated by seamstresses with a wealth of experience. The patterns are cut from the highest quality cotton, with the separate pieces expertly brought together to create the final design. We finish the shirt with ethically sourced mother-of-pearl buttons, which are thermally fused to ensure they never loosen with wear; two branded collar stays are then placed into the collar for aesthetic and functional precision.",
+        "productInformation":{
+            "productCode" : "ZZSW0027 1025 50",
+            "bodyFit" : "Weekend",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Linen",
+             "collarStyle" : "Derby Collar",
+             "countryOfOrigin" : "United Kingdom"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+    
+    
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec4",
+        "categoryName" : "T-Shirts",
+        "name": "WHITE DAVEY COTTON T-SHIRT",
+        "price": "3,000",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/white_Tee_N0_20CODFE_H_919935b3-bcd4-4728-85d6-e4cd19606583.jpg?v=1634133342",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/TURNBULL___ASSER_LOOKBOOK_202_03_a8bcdf80-d5ff-4dc4-a2e2-713977d163e8.jpg?v=1634133334",
+            "img3" : "https://turnbullandasser.co.uk/collections/polo-shirts?page=2&sort=recommended",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/white_Tee_N0_20CODFE_C2_af5ddff6-dba0-42a7-be0d-3b5801703e8b.jpg?v=1634133338"
+        },
+        "constructionDetails" : "Few garments are more indispensable than the white cotton crew neck T-shirt. Ours is made in the UK from the softest fine-gauge jersey, which wears and washes beautifully over time. We recommend you layer this piece beneath one of our Weekend Fit shirts or Cotton-Linen Chore Jackets for an easy off-duty look.",
+        "productInformation":{
+            "productCode" : "ZZKJ4298 5707 01",
+            "bodyFit" : "Weekend",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Linen",
+             "collarStyle" : "Jersey Crew",
+             "countryOfOrigin" : "Bangladesh"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec4",
+        "categoryName" : "T-Shirts",
+        "name": "NAVY MERINO WOOL CECIL POLO SHIRT",
+        "price": "5,600",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4306500150_H.jpg?v=1675158926",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4306500150_C3.jpg?v=1675158928",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4306500150_C2.jpg?v=1675158930",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SSD2-Product-Crops-1500x1500-7.jpg?v=1675158931"
+        },
+        "constructionDetails" : "Perfect for unreliable summers, or evenings in the city, this navy fine-knit Cecil polo shirt, made in Scotland from the finest merino wool, is a contemporary menswear staple. Pair this with our indigo selvedge denim jeans or pleated trousers for a stylish alternative to a classic shirt.",
+        "productInformation":{
+            "productCode" : "AEKM4306 5001 50   ",
+            "bodyFit" : "Weekend",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Merino Wool",
+             "collarStyle" : "Polo Collar",
+             "countryOfOrigin" : "Scotland"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec4",
+        "categoryName" : "T-Shirts",
+        "name": "GREY MERINO WOOL CECIL POLO SHIRT",
+        "price": "15,600",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4306500104_H.jpg?v=1654066518",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4306500104_C3_H.jpg?v=1654066520",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4306500104_C2_H.jpg?v=1654066521",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4306500104_H.jpg?v=1654066518"
+        },
+        "constructionDetails" : "Perfect for unreliable summers, or evenings in the city, this grey fine-knit Cecil polo shirt, made in Scotland from the finest merino wool, is a contemporary menswear staple. Pair this with our indigo selvedge denim jeans or pleated trousers for a stylish alternative to a classic shirt.",
+        "productInformation":{
+            "productCode" : "AEKM4306 5001 04",
+            "bodyFit" : "Weekend",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Merino Wool",
+             "collarStyle" : "Polo Collar",
+             "countryOfOrigin" : "Scotland"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec4",
+        "categoryName" : "T-Shirts",
+        "name": "BLUE MERINO WOOL ROLAND POLO SHIRT",
+        "price": "15,600",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4305575550_H.jpg?v=1644429315",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/SSD2-Product-Crops-1500x1500-9.jpg?v=1644429317",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4305575550_C3.jpg?v=1644429318",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4305575550_C2.jpg?v=1644429320"
+        },
+        "constructionDetails" : "Perfect for unreliable summers, or evenings in the city, this grey fine-knit Cecil polo shirt, made in Scotland from the finest merino wool, is a contemporary menswear staple. Pair this with our indigo selvedge denim jeans or pleated trousers for a stylish alternative to a classic shirt.",
+        "productInformation":{
+            "productCode" : "AEKM4305 5755 50",
+            "bodyFit" : "Weekend",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Merino Wool",
+             "collarStyle" : "Polo Open Collar",
+             "countryOfOrigin" : "Scotland"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec4",
+        "categoryName" : "T-Shirts",
+        "name": "CREAM ECRU MERINO WOOL ROLAND POLO SHIRT",
+        "price": "15,600",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4305575549_H.jpg?v=1653146113",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4305575549_C3_L.jpg?v=1653146115",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4305575549_C2_H.jpg?v=1653146116",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/AEKM4305575549_H.jpg?v=1653146113"
+        },
+        "constructionDetails" : "Perfect for unreliable summers, or evenings in the city, this grey fine-knit Cecil polo shirt, made in Scotland from the finest merino wool, is a contemporary menswear staple. Pair this with our indigo selvedge denim jeans or pleated trousers for a stylish alternative to a classic shirt.",
+        "productInformation":{
+            "productCode" : "AEKM4305 5755 50",
+            "bodyFit" : "Weekend",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Merino Wool",
+             "collarStyle" : "Polo Open Collar",
+             "countryOfOrigin" : "Scotland"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    },
+
+    
+    {
+        "category_id" : "645fa8d6c7055bf2b059dec2",
+        "categoryName" : "Jeans",
+        "name": "BLACK ITALIAN SELVEDGE DENIM JEANS",
+        "price": "15,600",
+        "images" : {
+            "img1" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/TR0024-EEPF02_H2.jpg?v=1669908927",
+            "img2" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/TR0024-EEPF02_C2.jpg?v=1669908929",
+            "img3" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/TR0024-EEPF02_C2.jpg?v=1669908929",
+            "img4" : "https://cdn.shopify.com/s/files/1/0267/6254/3149/products/TR0024-EEPF02_H2.jpg?v=1669908927"
+        },
+        "constructionDetails" : "Our jeans are made by specialist denim workshop in Walthamstow, Blackhorse Lane Ateliers. Special attention is given to the sizing and pattern of each pair we make, to ensure they’re both comfortable to wear and flattering – with a mid-rise and roomy, gently tapered legs. We work with Blackhorse Lane to source only the finest Japanese and Italian denims, which only improve over time with each wash and wear.",
+        "productInformation":{
+            "productCode" : "ABTR3612 5659 02",
+            "bodyFit" : "Weekend",
+             "weave" : "Poplin",
+             "pattern" : "Plain",
+             "cuffStyle" : "1 Button Cuff",
+             "material" : "Merino Wool",
+             "collarStyle" : "Polo Open Collar",
+             "countryOfOrigin" : "Scotland"
+        },
+        "size" : ["small","Medium", "Large", "Extra Large", "Extra Small" ],
+        "review": [
+            {
+                "reviewerName" : "John Doe",
+                "reviewHeading" : "Good, perfect size",
+                "reviewDetails" : "The fit is spot on, thanks to the accurate sizing information provided on the website. It hugs my body in all the right places, accentuating my figure without feeling too tight or restrictive. Plus, the length is just right, allowing me to tuck it in for a more polished look or leave it untucked for a relaxed vibe.",
+                "reviewRatings" : "4.5",
+                "reviewDays" : "3 days ago"
+            },
+            {
+                "reviewerName" : "Samanta J.",
+                "reviewHeading" : "Very good",
+                "reviewDetails" : "TI must say, I'm absolutely thrilled with my purchase! The moment I tried it on, I knew I had made the right choice.",
+                "reviewRatings" : "5",
+                "reviewDays" : "5 days ago"
+            }
+        ]
+    }
+
+]
